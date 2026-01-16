@@ -1,12 +1,14 @@
-<h1> <img src="./images/computacao-em-nuvem.png" alt="Computador e notebook" 
-height=40 align="center"> Oi, tudo bem?</h1>
+<h1> <img src="https://github.com/user-attachments/assets/b1403391-f16c-4cab-b3dd-d097cdab85a3"
+  height="40" 
+  align="center"
+  > Oi, tudo bem?</h1>
 
 <p align="center"> Me chamo Lilian e esse é um pouquinho do meu espaço profissional e criativo! </p>
 
 <div align="center">
-  <img src="./images/Arte Gif.gif" alt="Gif de uma rua com árvores e carros passando"
-  height="120"
-  width="330px"> 
+  <img src="https://github.com/user-attachments/assets/fbfa6908-7d7b-4e74-a189-6277e26df218"
+  height="100"
+  width="300px"> 
 </div>
 
 <h3 align="left">Algumas informações sobre mim!</h3>
