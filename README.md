@@ -36,7 +36,10 @@
 <h3 align="left">Redes Sociais</h3>
 <hr>
 <div align="left">
-  <a href="[www.linkedin.com/in/lilian-sabarin-9b8407354](https://www.linkedin.com/in/lilian-sabarin-9b8407354/)" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"/>
+  <a href="https://www.linkedin.com/in/lilian-sabarin-9b8407354/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+         width="45"
+         height="30"
+         alt="LinkedIn"/>
   </a>
 </div>
